@@ -1,0 +1,29 @@
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+# Serverless directories
+.serverless
+__pycache__/
+*/__pycache__
+.vscode/
+__pycache__/
+event.json
+eventdos.json
+console_exec.txt
+node_modules/
+docker-compose.yml

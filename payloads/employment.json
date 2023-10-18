@@ -1,0 +1,28 @@
+{"body":{
+    "privacyNotice": {
+        "fullName": {
+            "firstName": "Juan",
+            "middleName": "string",
+            "firstSurname": "Prueba",
+            "secondSurname": "Prueba05",
+            "aditionalSurname": "string"
+        },
+        "address": {
+            "streetAndNumber": "HIDALGO 32",
+            "settlement": "CENTRO",
+            "county": "CUAUHTEMOC",
+            "city": "CDMX",
+            "state": "CDMX",
+            "postalCode": "06000"
+        },
+        "acceptanceDate": "2020-04-12T22:20:50.52Z",
+        "acceptance": "Y"
+    },
+    "employmentVerification": {
+        "employmentVerificationRequestId": "d52892ff-7139-4ad2-893f-c615bfcb6b8e",
+        "subscriptionId": "6f2beb6e-329c-45ec-a185-af70b78ccb07",
+        "curp": "PUPJ970229HDFZZG57",
+        "email": "api57@circulodecredito.com.mx"
+    }
+
+}}
