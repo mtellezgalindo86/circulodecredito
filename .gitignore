@@ -27,3 +27,5 @@ eventdos.json
 console_exec.txt
 node_modules/
 docker-compose.yml
+serverless.local.yml
+.idea/
